@@ -11,16 +11,16 @@
 </p>
 
 ### Who Am I?
-Hello! I'm Ryan Shah, known online as KITATUS - Gameplay and tools programmer from Plymouth, United Kingdom. I create games, tools and love to tinker to help push the games industry to the next level.
+Hello! I'm Ryan Shah, known online as KITATUS - Game Designer and tools programmer from London, United Kingdom. I create games, tools and love to tinker to help push the games industry to the next level.
 
 ### Skills
-![](https://badgen.net/badge/UnrealEngine4/Professional/green)
-![](https://badgen.net/badge/Unity/Intermediate/yellow)
+![](https://badgen.net/badge/GameDesign/Professional/green)
+![](https://badgen.net/badge/UnrealEngine/Professional/green)
 ![](https://badgen.net/badge/C++/Professional/green)
 ![](https://badgen.net/badge/CSharp/Professional/green)
-![](https://badgen.net/badge/3DModelleing/Hobbyist/red)
-![](https://badgen.net/badge/Writing/Professional/green)
+![](https://badgen.net/badge/Unity/Intermediate/yellow)
 ![](https://badgen.net/badge/Animation/Hobbyist/yellow)
+![](https://badgen.net/badge/3DModelleing/Hobbyist/red)
 
 ### Stats
 
